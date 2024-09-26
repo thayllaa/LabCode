@@ -12,4 +12,4 @@ Este repositório contém soluções para os desafios propostos no curso de Pyth
 ## Instalação
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/thayllaa/LabCode](https://github.com/thayllaa/LabCode)
+   git clone https://github.com/thayllaa/LabCode

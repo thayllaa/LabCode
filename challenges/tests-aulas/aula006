@@ -1,0 +1,37 @@
+Tipos Primitivos
+int(inteiros): 7; -4; 0; 9875.
+float(ponto flutuante/número real): 4.5; 0,076; -15,223; 7,0
+bool(booleano): True; False
+str(mensagem): 'Olá'; '7,5'; ''
+
+Métodos
+#1 format() - formata valores especificos e os insere nas strings
+print('A soma vale', s)
+print('A soma vale {}' .format(s))
+
+#2 type() - mostra o tipo dos dados
+n1 = input("Write a number: ")
+print(type(n1))
+
+#3 isnumeric() - diz se é possivel converter o valor utilizado no momento em um tipo int
+n = input("Write something: ")
+print(n.isnumeric())
+
+#4 isalpha() - mostra se o dado é uma letra
+n = input("Write something: ")
+print(n.isalpha())
+
+#5 isalnum() - mostra se o dado é alfanumerico
+# isalpha()
+n = input("Write something: ")
+print(n.isalnum())
+
+#6 isupper() - verifica se o dado está com letra maiuscula
+n = input("Write something: ")
+print(n.isupper())
+
+
+============================================ DICTIONARY ============================================
+
+Concatenação é a junção de duas string. Juntar uma na outra, que é que acontece com o exercicio 003
+ao NÃO transformar a str em int.

@@ -1,0 +1,15 @@
+OPERAÇÕES ARITMÉTICAS
++ (adição)          - (subtração)          * (multiplicação)          / (divisão)
+** (potência)          // (divisão inteira)          % (resto da divisão)
+pow(4,3) => pode-se usar para potência, mas perde a ordem de precedência
+
+OPERANDOS - podem ser números, strings ou variáveis (mas nesse caso, especificamente,
+usa-se somente números ou variáveis)
+
+OPERADOR BINÁRIO são operandos que precisam de dois valores
+
+==: usa-se para testar se uma coisa é igual a outra. Anteriormente vimos um sinal de igual (=) que
+lê-se 'atribuir/receber'. Já dois sinais de igual (==) lê-se 'igual a quanto'.
+
+ORDEM DE PRECEDÊNCIA: ordem de execução/resolução dos operadores
+1º: ()    2º: **    3º: *; /; //; %    4º: +; -;
